@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RoninClipz
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python and HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me johnsonte98@gmail.com
 
 <!---
 RoninClipz/RoninClipz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
